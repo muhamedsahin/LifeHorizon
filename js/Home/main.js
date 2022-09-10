@@ -1,0 +1,1 @@
+ScrollReveal({ reset: true });
